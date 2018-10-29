@@ -8,3 +8,5 @@ Possíveis fontes de dados:
 - Dados eleitorais (resultados das eleições, perfis dos candidatos, receitas/despesas de campanha, perfil do eleitor por zona eleitoral, etc.): http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
 - Pacote do R para acessar dados do IBGE: https://github.com/tbrugz/ribge
 - Pacote do R para acessar dados econômicos: https://cran.r-project.org/web/packages/BETS/vignettes/BETS_basic_usage.html
+
+Vocês devem fazer commit de um relatorio.Rmd e um relatorio.html no final da atividade.
